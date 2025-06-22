@@ -7,7 +7,7 @@ A beautifully styled recipe website built as part of [The Odin Project](https://
 
 ## 🚀 Live Preview
 
-Experience the delicious design: [https://saiamirthesh.github.io/odin-recipes/](https://saiamirthesh.github.io/odin-recipes/)
+Experience the delicious design: [https://saiamirthesh.github.io/odin-recipes/](https://saiamirthesh.github.io/Recipes/)
 
 ## 🎨 Project Evolution
 
