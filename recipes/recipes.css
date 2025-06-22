@@ -1,0 +1,61 @@
+body{
+     background: radial-gradient(circle, rgba(240, 0, 0, 0.81), rgba(255, 115, 0, 0.89), rgba(255, 221, 0, 0.73));
+-webkit-background: radial-gradient(circle, rgba(240, 0, 0, 0.81), rgba(255, 115, 0, 0.89), rgba(255, 221, 0, 0.73));
+-moz-background: radial-gradient(circle, rgba(240, 0, 0, 0.81), rgba(255, 115, 0, 0.89), rgba(255, 221, 0, 0.73));
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    align-items: center;
+}
+div{
+    background-color: rgba(255, 238, 83, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 600px;
+    margin: auto;
+}
+.images{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+img{
+    width: 500px;
+    height: 450px;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.text{
+    font-size: 16px;
+    padding : 20px;
+    color: #333;
+    line-height: 1.6;
+    text-align: left;
+}
+
+div:hover{
+    background-color: rgba(255, 179, 0, 0.832);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+button{
+    background-color: #f49508;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    align-self: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+    align-self: center;
+}
