@@ -4,10 +4,6 @@
 
 A basic recipe website built as part of [The Odin Project](https://www.theodinproject.com/) curriculum to practice HTML fundamentals.
 
-## Live Preview
-
-View the project live: [https://your-github-username.github.io/odin-recipes/](https://your-github-username.github.io/odin-recipes/)
-
 ## Project Description
 
 This project is a simple website that links to various recipes. It was created to demonstrate basic HTML skills including:
