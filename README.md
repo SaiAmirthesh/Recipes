@@ -35,10 +35,14 @@ This project is a simple website that links to various recipes. It was created t
     odin-recipes/
     ├── index.html
     ├── README.md
+    ├── styles.css
     └── recipes/
       ├── recipe1.html
       ├── recipe2.html
-      └── recipe3.html
+      ├── recipe3.html
+      ├── recipe4.html
+      ├── recipe5.html
+      └── recipes.css
 
 
 ## What I Learned
